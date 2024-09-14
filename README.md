@@ -1,7 +1,8 @@
 # CREDIT-CARD-FRAUD-DETECTION
-_Developed a machine learning model to detect fraudulent credit card transactions by preprocessing and normalizing data, addressing class imbalance, and applying classification algorithms such as logistic regression and random forests. Evaluated model performance using precision, recall, and F1-score to ensure accuracy and reliability in fraud detection. 
 
-**Technologies used:** Python, Scikit-learn, Machine Learning_
+_Developed a machine learning model to detect fraudulent credit card transactions by preprocessing and normalizing data, addressing class imbalance, and applying classification algorithms such as logistic regression and random forests. Evaluated model performance using precision, recall, and F1-score to ensure accuracy and reliability in fraud detection._
+
+**Technologies used:** Python, Scikit-learn, Machine Learning
 
 ![image](https://github.com/user-attachments/assets/af5af61f-4e00-4d72-9cff-87f58e9fcce0)    ![image](https://github.com/user-attachments/assets/e2e7b2e6-2ef0-453c-8240-ba104f73c88b)
 
