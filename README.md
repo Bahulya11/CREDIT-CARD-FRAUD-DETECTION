@@ -3,10 +3,10 @@ _Developed a machine learning model to detect fraudulent credit card transaction
 
 **Technologies used:** Python, Scikit-learn, Machine Learning_
 
-![image](https://github.com/user-attachments/assets/af5af61f-4e00-4d72-9cff-87f58e9fcce0)  ![image](https://github.com/user-attachments/assets/e2e7b2e6-2ef0-453c-8240-ba104f73c88b)
+![image](https://github.com/user-attachments/assets/af5af61f-4e00-4d72-9cff-87f58e9fcce0)        ![image](https://github.com/user-attachments/assets/e2e7b2e6-2ef0-453c-8240-ba104f73c88b)
 
 
-![image](https://github.com/user-attachments/assets/423f9309-cb23-44b9-b6ce-7e280e686f31)   ![image](https://github.com/user-attachments/assets/209a39b7-c948-4ed6-97eb-f8f5f4f7db01)
+![image](https://github.com/user-attachments/assets/423f9309-cb23-44b9-b6ce-7e280e686f31)        ![image](https://github.com/user-attachments/assets/209a39b7-c948-4ed6-97eb-f8f5f4f7db01)
 
 
 
