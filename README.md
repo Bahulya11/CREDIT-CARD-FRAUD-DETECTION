@@ -10,14 +10,6 @@
 ![image](https://github.com/user-attachments/assets/7ce7bcba-d6f1-4c64-b837-da386258a0d0)
 
 > [!IMPORTANT]
-> **HARDWARE REQUIREMENTS:**
->
-> **RAM:** 4GB and higher
->
-> **Processor:** intel i3 and above
->
-> **Hard disk:** 500GB ( minimum )
->
 >
 >  **SOFTWARE REQUIREMENTS:**
 >
