@@ -1,17 +1,13 @@
 # CREDIT-CARD-FRAUD-DETECTION
+![image](https://github.com/user-attachments/assets/8997a421-cb32-4dcd-95ac-e072d90385c6)
 
-_Developed a machine learning model to detect fraudulent credit card transactions by preprocessing and normalizing data, addressing class imbalance, and applying classification algorithms such as logistic regression and random forests. Evaluated model performance using precision, recall, and F1-score to ensure accuracy and reliability in fraud detection._
+## _Developed a machine learning model to detect fraudulent credit card transactions by preprocessing and normalizing data, addressing class imbalance, and applying classification algorithms such as logistic regression and random forests. Evaluated model performance using precision, recall, and F1-score to ensure accuracy and reliability in fraud detection._
 
 **Technologies used:** Python, Scikit-learn, Machine Learning
 
 ![image](https://github.com/user-attachments/assets/cce71eab-6b0e-4bcd-9576-cf2543265be0)
 
-![image](https://github.com/user-attachments/assets/af5af61f-4e00-4d72-9cff-87f58e9fcce0)    ![image](https://github.com/user-attachments/assets/e2e7b2e6-2ef0-453c-8240-ba104f73c88b)
-
-
-![image](https://github.com/user-attachments/assets/423f9309-cb23-44b9-b6ce-7e280e686f31)        ![image](https://github.com/user-attachments/assets/209a39b7-c948-4ed6-97eb-f8f5f4f7db01)
-
-
+![image](https://github.com/user-attachments/assets/7ce7bcba-d6f1-4c64-b837-da386258a0d0)
 
 > [!IMPORTANT]
 > **HARDWARE REQUIREMENTS:**
@@ -30,3 +26,6 @@ _Developed a machine learning model to detect fraudulent credit card transaction
 > **TOOLS:** Jupyter notebook, Vs code
 >
 >Setup tools and pip to be installed for 3.6 and above
+
+
+![image](https://github.com/user-attachments/assets/485b8aa5-9c30-44bb-996c-14da069b4b1b)
