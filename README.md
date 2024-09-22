@@ -4,6 +4,8 @@ _Developed a machine learning model to detect fraudulent credit card transaction
 
 **Technologies used:** Python, Scikit-learn, Machine Learning
 
+![image](https://github.com/user-attachments/assets/cce71eab-6b0e-4bcd-9576-cf2543265be0)
+
 ![image](https://github.com/user-attachments/assets/af5af61f-4e00-4d72-9cff-87f58e9fcce0)    ![image](https://github.com/user-attachments/assets/e2e7b2e6-2ef0-453c-8240-ba104f73c88b)
 
 
@@ -13,21 +15,18 @@ _Developed a machine learning model to detect fraudulent credit card transaction
 
 > [!IMPORTANT]
 > **HARDWARE REQUIREMENTS:**
-
-**RAM:** 4GB and higher
-
-**Processor:** intel i3 and above
-
-**Hard disk:** 500GB ( minimum )
-
-
-> **SOFTWARE REQUIREMENTS:**
-
-
-**OS:** windows or linux
-
-Jupyter notebook
-
-Vs code
-
-Setup tools and pip to be installed for 3.6 and above
+>
+> **RAM:** 4GB and higher
+>
+> **Processor:** intel i3 and above
+>
+> **Hard disk:** 500GB ( minimum )
+>
+>
+>  **SOFTWARE REQUIREMENTS:**
+>
+> **OS:** windows or linux
+>
+> **TOOLS:** Jupyter notebook, Vs code
+>
+>Setup tools and pip to be installed for 3.6 and above
